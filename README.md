@@ -1,2 +1,2 @@
 # Topu-Yakala
-Topu Yakala Android Uygulamsı
+Topu Yakala Android Uygulaması
